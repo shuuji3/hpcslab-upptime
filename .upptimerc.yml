@@ -37,6 +37,10 @@ sites:
     port: 53
     check: "tcp-ping"
 
+assignees:
+  - onokatio
+  - namachan10777
+
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
