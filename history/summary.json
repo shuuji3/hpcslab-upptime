@@ -4,18 +4,20 @@
     "url": "https://www.hpcs.cs.tsukuba.ac.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.hpcs.cs.tsukuba.ac.jp.ico",
     "slug": "web-page",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1737,
-    "timeDay": 1737,
-    "timeWeek": 1737,
-    "timeMonth": 1737,
-    "timeYear": 1737,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "92.92%",
+    "uptimeDay": "92.92%",
+    "uptimeWeek": "92.92%",
+    "uptimeMonth": "92.92%",
+    "uptimeYear": "92.92%",
+    "time": 1459,
+    "timeDay": 1459,
+    "timeWeek": 1459,
+    "timeMonth": 1459,
+    "timeYear": 1459,
+    "dailyMinutesDown": {
+      "2024-03-28": 1
+    }
   },
   {
     "name": "Internal Page",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hpcs.cs.tsukuba.ac.jp.ico",
     "slug": "internal-page",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 138,
     "timeDay": 138,
     "timeWeek": 138,
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2024-03-28": 18
+      "2024-03-28": 20
     }
   },
   {
@@ -43,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.hpcs.cs.tsukuba.ac.jp.ico",
     "slug": "webmail",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-28": 18
+      "2024-03-28": 20
     }
   },
   {
@@ -99,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "down",
-    "uptime": "82.51%",
-    "uptimeDay": "82.51%",
-    "uptimeWeek": "82.51%",
-    "uptimeMonth": "82.51%",
-    "uptimeYear": "82.51%",
+    "uptime": "32.14%",
+    "uptimeDay": "32.14%",
+    "uptimeWeek": "32.14%",
+    "uptimeMonth": "32.14%",
+    "uptimeYear": "32.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-28": 0
+      "2024-03-28": 3
     }
   },
   {
