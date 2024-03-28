@@ -12,6 +12,30 @@ sites:
     url: mail.hpcs.cs.tsukuba.ac.jp
     port: 25
     check: "tcp-ping"
+  - name: Mail (SMTPS)
+    url: mail.hpcs.cs.tsukuba.ac.jp
+    port: 465
+    check: "tcp-ping"
+  - name: Mail (IMAP)
+    url: mail.hpcs.cs.tsukuba.ac.jp
+    port: 143
+    check: "tcp-ping"
+  - name: Mail (IMAPS)
+    url: mail.hpcs.cs.tsukuba.ac.jp
+    port: 993
+    check: "tcp-ping"
+  - name: Mail (POP3)
+    url: mail.hpcs.cs.tsukuba.ac.jp
+    port: 110
+    check: "tcp-ping"
+  - name: Mail (POP3S)
+    url: mail.hpcs.cs.tsukuba.ac.jp
+    port: 995
+    check: "tcp-ping"
+  - name: External DNS
+    url: dns.hpcs.cs.tsukuba.ac.jp
+    port: 53
+    check: "tcp-ping"
 
 status-website:
   baseUrl: /upptime
