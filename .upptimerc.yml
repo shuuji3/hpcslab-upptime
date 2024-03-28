@@ -6,6 +6,8 @@ sites:
     url: https://www.hpcs.cs.tsukuba.ac.jp
   - name: Internal Page
     url: https://www.hpcs.cs.tsukuba.ac.jp/internal/pukiwiki/
+    headers:
+      - "Authorization: Basic $AUTH_BASIC"
   - name: Webmail
     url: https://mail.hpcs.cs.tsukuba.ac.jp
   - name: Auth Server httpd
