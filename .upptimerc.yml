@@ -8,6 +8,8 @@ sites:
     url: https://www.hpcs.cs.tsukuba.ac.jp/internal/pukiwiki/
   - name: Webmail
     url: https://mail.hpcs.cs.tsukuba.ac.jp
+  - name: Auth Server httpd
+    url: http://auth.hpcs.cs.tsukuba.ac.jp
   - name: Mail (SMTP)
     url: mail.hpcs.cs.tsukuba.ac.jp
     port: 25
@@ -35,6 +37,10 @@ sites:
   - name: External DNS
     url: dns.hpcs.cs.tsukuba.ac.jp
     port: 53
+    check: "tcp-ping"
+  - name: Work SSH
+    url: work.hpcs.cs.tsukuba.ac.jp
+    port: 22
     check: "tcp-ping"
 
 assignees:
