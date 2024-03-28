@@ -25,10 +25,11 @@ sites:
     url: mail.hpcs.cs.tsukuba.ac.jp
     port: 465
     check: "tcp-ping"
-  - name: Mail (IMAP)
-    url: mail.hpcs.cs.tsukuba.ac.jp
-    port: 143
-    check: "tcp-ping"
+# IMAP is disabled now
+#  - name: Mail (IMAP)
+#    url: mail.hpcs.cs.tsukuba.ac.jp
+#    port: 143
+#    check: "tcp-ping"
   - name: Mail (IMAPS)
     url: mail.hpcs.cs.tsukuba.ac.jp
     port: 993
