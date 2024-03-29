@@ -1,7 +1,7 @@
 url: https://auth.hpcs.cs.tsukuba.ac.jp
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-29T10:58:05.426Z
+status: up
+code: 403
+responseTime: 1188
+lastUpdated: 2024-03-29T11:10:53.759Z
 startTime: 2024-03-28T11:26:36.129Z
 generator: Upptime <https://github.com/upptime/upptime>
