@@ -1,7 +1,7 @@
 url: dns.hpcs.cs.tsukuba.ac.jp
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-28T23:22:44.507Z
+status: up
+code: 200
+responseTime: 154
+lastUpdated: 2024-03-29T02:04:40.824Z
 startTime: 2024-03-28T11:02:45.986Z
 generator: Upptime <https://github.com/upptime/upptime>
