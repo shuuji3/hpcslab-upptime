@@ -12,11 +12,11 @@ sites:
     url: https://mail.hpcs.cs.tsukuba.ac.jp
     headers:
       - "Authorization: Basic $AUTH_BASIC"
-  - name: Auth Server httpd
-    url: https://auth.hpcs.cs.tsukuba.ac.jp
-    __dangerous__insecure: true
-    expectedStatusCodes:
-      - 403
+#  - name: Auth Server httpd
+#    url: https://auth.hpcs.cs.tsukuba.ac.jp
+#    __dangerous__insecure: true
+#    expectedStatusCodes:
+#      - 403
   - name: Mail (SMTP)
     url: mail.hpcs.cs.tsukuba.ac.jp
     port: 25
