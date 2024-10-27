@@ -51,10 +51,6 @@ sites:
     port: 22
     check: "tcp-ping"
 
-assignees:
-  - onokatio
-  - namachan10777
-
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -69,5 +65,5 @@ status-website:
     - title: HPCSLab
       href: https://www.hpcs.cs.tsukuba.ac.jp/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: This page is powered by [Upptime](https://upptime.js.org)
