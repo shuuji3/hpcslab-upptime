@@ -59,7 +59,7 @@ status-website:
   introMessage: HPCSの基幹系の死活監視をします
   navbar:
     - title: Status
-      href: /
+      href: /upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: HPCSLab
